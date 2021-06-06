@@ -13,8 +13,7 @@ The physical components of the instrument are 3 soil-moisture sensors which are 
 <details>
   <summary>Expand to see full Arduino code</summary>
   
-  ```markdown
-  
+  ```
   #include "Adafruit_seesaw.h"
   #include<Wire.h>
   #include "I2Cdev.h"
