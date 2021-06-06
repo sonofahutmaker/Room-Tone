@@ -1,5 +1,4 @@
-# Room Tone
-## by Jenni Hutson
+# Room Tone by Jenni Hutson
 
 Room Tone is a piece about how I've found that the environment I'm in profoundly affects my mental health. I've been thinking about how this last year in quarantine, where I've been at home more than ever before, has shaped my experience with anxiety. Room Tone is a digital musical instrument that explores this experience.
 
