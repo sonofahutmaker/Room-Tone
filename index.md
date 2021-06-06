@@ -1207,10 +1207,13 @@ The moisture levels of the plants control the speed of playback for their tracks
 
 
 ### Arduino Code
+
 <details>
+  
   <summary>Expand to see full Arduino code</summary>
   
   ```
+  
   #include "Adafruit_seesaw.h"
   #include<Wire.h>
   #include "I2Cdev.h"
@@ -1417,4 +1420,5 @@ The moisture levels of the plants control the speed of playback for their tracks
     delay(100);
   } 
 ```
+  
 </details>
