@@ -8,6 +8,29 @@ Room Tone is a piece about how I've found that the environment I'm in profoundly
 The physical components of the instrument are 3 soil-moisture sensors which are in three plants, and a gyroscope which I sewed onto a gardening glove. These sensors are hooked up to an Arduino Uno, which sends their data back into my computer. This data is processed by a Max MSP patcher. See full Arduino and Max MSP code below.
 ![max_Shot](https://user-images.githubusercontent.com/39632502/120905803-3aa0d400-c61a-11eb-9233-7bdedeb83840.png)
 
+# A collapsible section containing markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+# A collapsible section containing code
+<details>
+  <summary>Click to expand!</summary>
+  
+  ```javascript
+    function whatIsLove() {
+      console.log('Baby Don't hurt me. Don't hurt me');
+      return 'No more';
+    }
+  ```
+</details>
+
 
 ### Arduino Code
 <details>
