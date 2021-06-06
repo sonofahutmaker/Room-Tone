@@ -10,11 +10,10 @@ The physical components of the instrument are three soil-moisture sensors which 
 ![glove](https://user-images.githubusercontent.com/39632502/120937167-8b273880-c6d1-11eb-8ca6-d8c819af91fd.JPG)
 
 
-
 ## Sound Design
-I knew I wanted the piece to give a lot of control over to the environment, which I ended up using three plants to represent. I thought of the instrument as having 4 voices: one for each plant, and one for me. The sounds that made up each of these voices were samples of either nature noises for the plants, such as a storm or wind, or human and “household” for my voice, like footsteps or a microwave.
+I knew I wanted the piece to give a lot of control over to the environment, which I ended up using three plants to represent. I thought of the instrument as having 4 voices: one for each plant, and one for me. The sounds that made up each of these voices were samples of either nature noises for the plants, such as a storm or wind, or human and “household” for my voice, like a heartbeat or microwave beep.
   
-The moisture levels of the plants control the speed of playback for their tracks, while the gyroscope reads the position of the hand to trigger changes in the sound.
+The moisture levels of the plants control the speed of playback for their tracks, while the gyroscope reads the position of the hand to trigger changes in the sound. By using a gyroscope to trigger sounds, I was able to give the sense of keying into different invisible areas around the instrument and unlocking the internal soundtracks of the environment and myself. Strangely, I discovered that the lack of touch required to play the instrument made the performance more intimate.
 
 ## Performance
 Video of a performance of Room Tone.
