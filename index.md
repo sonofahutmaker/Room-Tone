@@ -1,5 +1,5 @@
 # Room Tone by Jenni Hutson
-![plant_angle](https://user-images.githubusercontent.com/39632502/120937157-7ba7ef80-c6d1-11eb-8d65-af1ce9170e00.JPG)
+![plant_angle](https://user-images.githubusercontent.com/39632502/120937801-266ddd00-c6d5-11eb-97f0-12ceec67d9be.JPG)
 
 Room Tone is a piece about how I've found that the environment I'm in profoundly affects my mental health. I've been thinking about how this last year in quarantine, where I've been at home more than ever before, has shaped my experience with anxiety. Room Tone is a digital musical instrument that explores this experience.
 
