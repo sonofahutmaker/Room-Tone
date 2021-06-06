@@ -11,6 +11,7 @@ The physical components of the instrument are 3 soil-moisture sensors which are 
 
 ### Arduino Code
 <details>
+  
   <summary>Expand to see full Arduino code</summary>
   
   ```
