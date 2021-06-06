@@ -1,11 +1,15 @@
 # Room Tone by Jenni Hutson
+![plant_angle](https://user-images.githubusercontent.com/39632502/120937157-7ba7ef80-c6d1-11eb-8d65-af1ce9170e00.JPG)
 
 Room Tone is a piece about how I've found that the environment I'm in profoundly affects my mental health. I've been thinking about how this last year in quarantine, where I've been at home more than ever before, has shaped my experience with anxiety. Room Tone is a digital musical instrument that explores this experience.
 
 ## Components
+![whole_instrument](https://user-images.githubusercontent.com/39632502/120937178-9b3f1800-c6d1-11eb-8fe4-81f8a0af5423.jpg)
 
-The physical components of the instrument are 3 soil-moisture sensors which are in three plants, and a gyroscope which I sewed onto a gardening glove. These sensors are hooked up to an Arduino Uno, which sends their data back into my computer. This data is processed by a Max MSP patcher. See full Arduino and Max MSP code below.
-![max_Shot](https://user-images.githubusercontent.com/39632502/120905803-3aa0d400-c61a-11eb-9233-7bdedeb83840.png)
+The physical components of the instrument are three soil-moisture sensors which are in three plants, and a gyroscope which I sewed onto a gardening glove. These sensors are hooked up to an Arduino Uno, which sends their data back into my computer. This data is processed by a Max MSP patcher. See full Arduino and Max MSP code below.
+![glove](https://user-images.githubusercontent.com/39632502/120937167-8b273880-c6d1-11eb-8ca6-d8c819af91fd.JPG)
+
+
 
 ## Sound Design
 I knew I wanted the piece to give a lot of control over to the environment, which I ended up using three plants to represent. I thought of the instrument as having 4 voices: one for each plant, and one for me. The sounds that made up each of these voices were samples of either nature noises for the plants, such as a storm or wind, or human and “household” for my voice, like footsteps or a microwave.
@@ -18,6 +22,7 @@ Video of a performance of Room Tone.
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/559100666?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Room Tone Demo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Max MSP Code
+![max_Shot](https://user-images.githubusercontent.com/39632502/120905803-3aa0d400-c61a-11eb-9233-7bdedeb83840.png)
   
 <details>
   
