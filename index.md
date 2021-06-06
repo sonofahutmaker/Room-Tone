@@ -16,11 +16,6 @@ I knew I wanted the piece to give a lot of control over to the environment, whic
   
 The moisture levels of the plants control the speed of playback for their tracks, while the gyroscope reads the position of the hand to trigger changes in the sound.
 
-<audio controls="controls">
-  <source type="audio/wav" src="https://github.com/sonofahutmaker/Room-Tone/blob/main/sounds/me.nosync/heartbeat.wav"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
-
 ## Performance
 Video of a performance of Room Tone.
 
